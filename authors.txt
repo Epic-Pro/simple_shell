@@ -1,0 +1,9 @@
+This simple_shell is a group project.
+A collaboration between Tess and Morris.
+There are 16 tasks.
+Five tasks are mandatory.
+The rest are advanced, hence optional.
+This group targets a score of 80% and above.
+It is the final project in C Programming language.
+The next programming language is Python.
+Python will be a great. 
